@@ -1,6 +1,6 @@
 import francesco from "@/assets/team/francesco.jpg";
 import giuseppe from "@/assets/team/giuseppe.jpg";
-import filippo from "@/assets/team/filippo.jpg";
+import filippo from "@/assets/team/filippo-new.jpg";
 import colleen from "@/assets/team/colleen.jpg";
 import duccio from "@/assets/team/duccio.jpg";
 import wubrest from "@/assets/team/wubrest.jpg";
@@ -84,18 +84,18 @@ export const teamGroups: TeamGroup[] = [
         name: "Nicole M. Chicoine, MD, JD",
         role: "Board Member",
         photo: nicole,
-        bio: "Nicole Chicoine is an Emergency Medicine physician in Seattle, Washington, and a faculty member in the University of Washington Department of Emergency Medicine. She practices clinically at both University of Washington Medical Center and Harborview Medical Center, the region's Level I trauma center. Dr. Chicoine has experience serving underserved communities in resource-limited settings, including several years of work in Haiti. She is deeply committed to global health and is honored to support Engera's mission of delivering medical care, nutrition, and education to underserved communities in Ethiopia. She is inspired by the organization's meaningful impact and has great admiration for the resilience, warmth, and spirit of the Ethiopian communities it serves.",
-      },
-      {
-        name: "Sabrina Jardine",
-        role: "Board Member",
-        bio: "Sabrina Jardine holds a Bachelor of Science in Chemistry from the University of British Columbia. Following her studies, she pursued a career as a professional endurance athlete, competing as an Ironman triathlete for over 14 years. Her athletic career reflects a deep commitment to discipline, resilience, and high-performance excellence. Sabrina is a long time entrepreneur who is currently involved in multiple business ventures across the medical and retail sectors, where she brings strategic insight and a results-driven mindset. She is also a dedicated mother of three and is deeply committed to family and community. In 2007, she and her family adopted their son from Ethiopia, an experience that continues to shape her perspective and passion for service in the country. Sabrina is honored to support Engera creating meaningful impact and strengthening communities. She brings a thoughtful, compassionate approach to everything she does.",
+        bio: "Emergency Medicine physician and University of Washington faculty member, with experience serving underserved communities including in Haiti. She is honored to support Engera's mission of delivering medical care, nutrition and education in Ethiopia.",
       },
       {
         name: "Ricky Abbott",
         role: "Board Member",
         photo: ricky,
         bio: "President of Transmission, a marketing consultancy advising some of the world's largest companies. He relocated from the UK to the United States in 2019 and brings business strategy, fundraising and market positioning experience to Engera USA.",
+      },
+      {
+        name: "Sabrina Jardine",
+        role: "Board Member",
+        bio: "Former professional Ironman triathlete and longtime entrepreneur across the medical and retail sectors. She and her family adopted their son from Ethiopia in 2007, an experience that continues to shape her passion for service in the country.",
       },
     ],
   },
